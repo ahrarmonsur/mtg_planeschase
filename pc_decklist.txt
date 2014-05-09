@@ -1,0 +1,88 @@
+0	Cover		Planeschase!
+1	Phen. 	Chaotic Aether
+2	Phen. 	Interplanar Tunnel
+3	Phen. 	Morphic Tide
+4	Phen. 	Mutual Epiphany
+5	Phen. 	Planwise Disaster
+6	Phen. 	Reality Shaping
+7	Phen. 	Spatial Merging
+8	Phen. 	Time Distortion
+9	Plane 	Akoum
+10	Plane 	Aretopolis
+11	Plane 	Astral Arena
+12	Plane 	Bloodhill Bastion
+13	Plane 	Edge of Malacol
+14	Plane 	Furnace Layer
+15	Plane 	Gavony
+16	Plane 	Glen Elendra
+17	Plane 	Grand Ossuary
+18	Plane 	Grove of the Dreampods
+19	Plane 	Hedron Fields of Agadeem
+20	Plane 	Jund
+21	Plane 	Kessig
+22	Plane 	Kharasha Foothills
+23	Plane 	Kilnspire District
+24	Plane 	Lair of the Ashen Idol
+25	Plane 	Mount Keralia
+26	Plane 	Nephalia
+27	Plane 	Norn's Dominion
+28	Plane 	Onakke Catacomb
+29	Plane 	Orochi Colony
+30	Plane 	Orzhova
+31	Plane 	Prahv
+32	Plane 	Quicksilver Sea
+33	Plane 	Selesnya Loft Gardens
+34	Plane 	Stensia
+35	Plane 	Takenuma
+36	Plane 	Talon Gates
+37	Plane 	Trail of the Mage-Rings
+38	Plane 	Truga Jungle
+39	Plane 	Windriddle Palaces
+40	Plane 	The Zephyr Maze
+41	Plane 	Stairs to Infinity
+42	Plane 	Academy of Tolaria West
+43	Plane 	The Aether Flues
+44	Plane 	Agyrem
+45	Plane 	Bant
+46	Plane 	Cliffside Market
+47	Plane 	The Dark Barony
+48	Plane 	Eloren Wilds
+49	Plane 	The Eon Fog
+50	Plane 	Feeding Grounds
+51	Plane 	Fields of Summer
+52	Plane 	The Fourth Sphere
+53	Plane 	Glimmervoid Basin
+54	Plane 	Goldmeadow
+55	Plane 	The Great Forest
+56	Plane 	Grixis
+57	Plane 	The Hippodrome
+58	Plane 	Immersturm
+59	Plane 	Isle of Vesuva
+60	Plane 	Izzet Steam Maze
+61	Plane 	Krosa
+62	Plane 	Lethe Lake
+63	Plane 	Llanowar
+64	Plane 	The Maelstrom
+65	Plane 	Minamo
+66	Plane 	Murasa
+67	Plane 	Naar Isle
+68	Plane 	Naya
+69	Plane 	Otaria
+70	Plane 	Panopticon
+71	Plane 	Pools of Becoming
+72	Plane 	Raven's Run
+73	Plane 	Sanctum of Serra
+74	Plane 	Sea of Sand
+75	Plane 	Shiv
+76	Plane 	Skybreen
+77	Plane 	Sokenzan
+78	Plane 	Stronghold Furnace
+79	Plane 	Turri Island
+80	Plane 	Undercity Reaches
+81	Plane 	Velis Vel
+82	Plane 	Tazeem
+83	Plane 	Celestine Reef
+84	Plane 	Horizon Boughs
+85	Plane 	Mirrored Depths
+86	Plane 	Tember City
+EOF
